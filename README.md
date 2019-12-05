@@ -19,6 +19,8 @@ O back-end deve ser capaz de gerenciar os dados do Usuario:
 
 1.  O usuario nao pode cadastrar um email ja existente;
 
+
+
 **Dicas **
 Sitema de Rotas:
 ![Sistema de Rotas](rotas.png)
