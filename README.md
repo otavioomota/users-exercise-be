@@ -14,6 +14,7 @@ O back-end deve ser capaz de gerenciar os dados do Usuario:
 3. Salvar o usuario no banco de dados;
 4. Excluir o usuario no banco de dados;
 
+!(sistemas de rotas)(rotas.png)
 **Regra no controller: **
 
 1.  O usuario nao pode cadastrar um email ja existente;
