@@ -20,4 +20,4 @@ O back-end deve ser capaz de gerenciar os dados do Usuario:
 
 **Dicas **
 Sitema de Rotas:
-!(Sistema de Rotas)(rotas.png)
+![Sistema de Rotas](rotas.png)
